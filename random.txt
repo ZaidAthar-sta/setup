@@ -1,0 +1,4 @@
+always wrap db connection in try and catch or you can also use promises.
+
+database is always in another continent so it might take some time to communicate with it so always use
+async-await with it.
